@@ -2,3 +2,9 @@
 .idea
 venv/include
 venv/
+venv1/
+venv1/bin
+venv1/include
+venv1/lib
+venv1/lib64
+venv1/pyvenv.cfg
